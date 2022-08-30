@@ -10,4 +10,5 @@ arquivo de github
 
 arquivo test
 g
-igostau? ok ok repassando.
+igostau? ok ok repassando
+edicao terca-feira.
